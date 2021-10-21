@@ -1,0 +1,4 @@
+                TEST NAME          |     SUM     | REGISTERED  |   EXPECTED
+----------------------------------------------------------------------------
+registered user, registered user   |   100060    |    true     |     30
+registered user, bonus over limit  |  100000060  |    true     |     500
